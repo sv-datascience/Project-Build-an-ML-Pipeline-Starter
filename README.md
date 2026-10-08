@@ -188,3 +188,10 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+## Evidence Screenshots (from my W&B account)
+**`reference` alias on the latest `clean_sample.csv`:**
+![reference tag](images/wandb-tag-data-test.png)
+
+**Pipeline lineage graph:**
+![pipeline graph](images/wandb-pipeline-graph.png)
