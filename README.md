@@ -1,4 +1,13 @@
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
+
+## Project Links
+- **W&B project (public):** https://wandb.ai/YOUR_WANDB_USERNAME/nyc_airbnb
+- **GitHub repository:** https://github.com/YOUR_GITHUB_USERNAME/Project-Build-an-ML-Pipeline-Starter
+
+## Future improvements
+- Expand EDA with more visualizations and additional cleaning steps (e.g., capping `minimum_nights`).
+- Try other models (e.g., gradient boosting) as a separate pipeline step and compare MAE in W&B.
+- Run a wider hyperparameter sweep (`max_tfidf_features`, `max_features`) for better performance.
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
 on the price of similar properties. Your company receives new data in bulk every week. The model needs 
