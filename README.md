@@ -1,8 +1,8 @@
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 
 ## Project Links
-- **W&B project (public):** https://wandb.ai/YOUR_WANDB_USERNAME/nyc_airbnb
-- **GitHub repository:** https://github.com/YOUR_GITHUB_USERNAME/Project-Build-an-ML-Pipeline-Starter
+- **W&B project (public):** https://wandb.ai/saravancura-analytics-western-governors-university/nyc_airbnb
+- **GitHub repository:** https://github.com/sv-datascience/Project-Build-an-ML-Pipeline-Starter
 
 ## Future improvements
 - Expand EDA with more visualizations and additional cleaning steps (e.g., capping `minimum_nights`).
